@@ -2,7 +2,7 @@
 
 **Solution Architect · Technical Lead · Senior Full Stack Engineer**
 
-Enterprise financial software, distributed systems, cloud platforms, and AI-assisted engineering.
+Enterprise financial platforms, mobile applications, distributed systems, and cloud engineering.
 
 [LinkedIn](https://www.linkedin.com/in/mohsin-shabbir-169ba273) · [Email](mailto:link2mohsin22@gmail.com)
 
@@ -14,11 +14,20 @@ As a **Senior Engineering Owner at NETSOL Technologies**, I work across solution
 
 My development background spans **.NET, Java, PHP, Angular, React, and Node.js**, supported by relational databases, asynchronous messaging, cloud infrastructure, and automated delivery. I also work with AI development tools and technologies, including OpenAI Codex, LangGraph, and Azure OpenAI.
 
+## Featured engineering project
+
+### [Offline Collection Sync](https://github.com/mohsin-shabbir/offline-collection-sync)
+
+An executable mobile-finance synchronization reference demonstrating idempotent acceptance, bounded retries, receipt validation, and failure isolation. Includes an architecture walkthrough and 11 automated tests using synthetic data.
+
+**JavaScript / Node.js · Mobile integration patterns · Automated testing**
+
 ## What I bring to a team
 
 - **Architecture and delivery:** Translate business requirements into maintainable application designs and guide teams through implementation and production support.
 - **Financial-domain experience:** Develop and support financial ERP, asset-finance, leasing, payment, and collection applications.
 - **Integration engineering:** Connect services through REST APIs, Kafka, JMS, RabbitMQ, payment gateways, and third-party business integrations.
+- **Mobile and backend delivery:** Android/Java financial applications, Spring services, hybrid applications with PhoneGap, and REST API integrations.
 - **Operational ownership:** Investigate performance issues, support releases, automate operational tasks, and monitor application, infrastructure, and database health.
 - **Client collaboration:** Work with international clients across the USA, China, Indonesia, Australia, Canada, the UK, and the Middle East.
 
@@ -31,6 +40,7 @@ My development background spans **.NET, Java, PHP, Angular, React, and Node.js**
 | **Java** | Java EE, Spring Framework, Hibernate, Play Framework |
 | **PHP** | Core PHP, CodeIgniter, Yii, Zend, CakePHP, Smarty |
 | **Frontend and Node.js** | Angular, React, Node.js, AngularJS, HTML5, CSS, Bootstrap, jQuery, Ajax |
+| **Mobile development** | Android, Java, PhoneGap, mobile-to-backend REST integration |
 | **Architecture and messaging** | Microservices, distributed systems, REST APIs, web services, Apache Kafka, RabbitMQ, JMS |
 | **Databases** | PostgreSQL, Oracle, MySQL, SQLite, NoSQL |
 | **Cloud platforms** | Microsoft Azure, App Service, Container Apps, AKS, DigitalOcean Droplets |
@@ -43,7 +53,7 @@ My development background spans **.NET, Java, PHP, Angular, React, and Node.js**
 <details>
 <summary>Additional platform experience</summary>
 
-Android/Java financial mobile applications, PhoneGap, WordPress, Joomla, Magento, and XHTML.
+WordPress, Joomla, Magento, and XHTML.
 
 </details>
 
@@ -88,3 +98,4 @@ For conversations about solution architecture, technical leadership, full stack 
 
 - [LinkedIn](https://www.linkedin.com/in/mohsin-shabbir-169ba273)
 - [link2mohsin22@gmail.com](mailto:link2mohsin22@gmail.com)
+
