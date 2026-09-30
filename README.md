@@ -14,13 +14,17 @@ As a **Senior Engineering Owner at NETSOL Technologies**, I work across solution
 
 My development background spans **.NET, Java, PHP, Angular, React, and Node.js**, supported by relational databases, asynchronous messaging, cloud infrastructure, and automated delivery. I also work with AI development tools and technologies, including OpenAI Codex, LangGraph, and Azure OpenAI.
 
-## Featured engineering project
+## Engineering portfolio
 
-### [Offline Collection Sync](https://github.com/mohsin-shabbir/offline-collection-sync)
+Executable reference projects with documented architecture, automated tests, and CI workflows. These independent examples use synthetic data and demonstrate patterns relevant to enterprise financial systems.
 
-An executable mobile-finance synchronization reference demonstrating idempotent acceptance, bounded retries, receipt validation, and failure isolation. Includes an architecture walkthrough and 11 automated tests using synthetic data.
-
-**JavaScript / Node.js · Mobile integration patterns · Automated testing**
+| Repository | Engineering focus |
+|---|---|
+| [Spring Boot Kafka Reference](https://github.com/mohsin-shabbir/spring-boot-kafka-reference) | Event-driven integration, idempotent consumption, retries, dead-letter recovery, embedded-broker tests |
+| [OAuth 2.0, JWT & Spring Security](https://github.com/mohsin-shabbir/spring-security-oauth2-jwt) | Signed JWT validation, issuer/audience checks, scope authorization, OAuth client credentials with Keycloak |
+| [WCF Service Reference](https://github.com/mohsin-shabbir/wcf-service-reference) | .NET Framework contracts, service, host, client, typed faults, SOAP integration tests |
+| [ASP.NET Core Finance API](https://github.com/mohsin-shabbir/aspnet-core-finance-api) | .NET 10, JWT authorization, EF Core, relational persistence, database-enforced idempotency, HTTP integration tests |
+| [Offline Collection Sync](https://github.com/mohsin-shabbir/offline-collection-sync) | Mobile synchronization, bounded retries, receipt validation, automated failure scenarios |
 
 ## What I bring to a team
 
@@ -56,6 +60,15 @@ An executable mobile-finance synchronization reference demonstrating idempotent 
 WordPress, Joomla, Magento, and XHTML.
 
 </details>
+
+## Published mobile applications
+
+| Application | Platform | Public listing |
+|---|---|---|
+| **mDealer – Northridge** | Android | [Google Play](https://play.google.com/store/apps/details?id=com.netsol.mdealer.android.northridge) |
+| **mAuditor – Hiltermann** | iPhone / iPad | [App Store](https://apps.apple.com/us/app/mauditor-hiltermann/id6763015092) |
+
+Mobile applications associated with my professional work. These links point to the publishers' official listings; source code remains with the respective organizations.
 
 ## Selected project experience
 
