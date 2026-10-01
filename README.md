@@ -4,7 +4,7 @@
 
 Enterprise financial platforms, mobile applications, distributed systems, and cloud engineering.
 
-[LinkedIn](https://www.linkedin.com/in/mohsin-shabbir-169ba273) · [Email](mailto:link2mohsin22@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohsin-shabbir-169ba273) · [link2mohsin22@gmail.com](mailto:link2mohsin22@gmail.com) · [+93 333 2518514](tel:+933332518514)
 
 ## About me
 
@@ -20,6 +20,7 @@ Executable reference projects with documented architecture, automated tests, and
 
 | Repository | Engineering focus |
 |---|---|
+| [Ahlam Gold Web Reference](https://github.com/mohsin-shabbir/ahlam-gold-web-reference) | React booking workspace, Node.js API, PostgreSQL persistence, concurrent reservation protection, project case study |
 | [Spring Boot Kafka Reference](https://github.com/mohsin-shabbir/spring-boot-kafka-reference) | Event-driven integration, idempotent consumption, retries, dead-letter recovery, embedded-broker tests |
 | [OAuth 2.0, JWT & Spring Security](https://github.com/mohsin-shabbir/spring-security-oauth2-jwt) | Signed JWT validation, issuer/audience checks, scope authorization, OAuth client credentials with Keycloak |
 | [WCF Service Reference](https://github.com/mohsin-shabbir/wcf-service-reference) | .NET Framework contracts, service, host, client, typed faults, SOAP integration tests |
@@ -86,7 +87,7 @@ A web-based point-of-sale application built with **Angular, Java Play Framework,
 
 ### Ahlam Gold
 
-A personal full stack application under development using **React, Node.js, and PostgreSQL**.
+A booking, guest operations, accounts, and reporting project using **React, TypeScript, Next.js, Node.js, and PostgreSQL**. The [public web reference](https://github.com/mohsin-shabbir/ahlam-gold-web-reference) includes a project case study and an independent booking demo with synthetic data.
 
 ### Payment and web integrations
 
@@ -110,5 +111,6 @@ Experience with **WePay, PayPal/Pro, Base Commerce, Worldpay, and Alipay**, alon
 For conversations about solution architecture, technical leadership, full stack engineering, or enterprise financial applications:
 
 - [LinkedIn](https://www.linkedin.com/in/mohsin-shabbir-169ba273)
-- [link2mohsin22@gmail.com](mailto:link2mohsin22@gmail.com)
+- **Email:** [link2mohsin22@gmail.com](mailto:link2mohsin22@gmail.com)
+- **Phone:** [+93 333 2518514](tel:+933332518514)
 
