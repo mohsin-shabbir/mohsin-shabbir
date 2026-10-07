@@ -18,6 +18,14 @@ My development background spans **.NET, Java, PHP, Angular, React, and Node.js**
 
 Executable reference projects with documented architecture, automated tests, and CI workflows. These independent examples use synthetic data and demonstrate patterns relevant to enterprise financial systems.
 
+### Ahlam Gold — web application walkthrough
+
+A screenshot slideshow of the public booking reference: overview, room selection and pricing, then confirmed reservations. Synthetic demonstration data.
+
+[![Ahlam Gold booking demo slideshow](https://raw.githubusercontent.com/mohsin-shabbir/ahlam-gold-web-reference/main/docs/ahlam-gold-slideshow.gif)](https://github.com/mohsin-shabbir/ahlam-gold-web-reference)
+
+[View project and still screenshots](https://github.com/mohsin-shabbir/ahlam-gold-web-reference#screenshot-slideshow)
+
 | Repository | Engineering focus |
 |---|---|
 | [Ahlam Gold Web Reference](https://github.com/mohsin-shabbir/ahlam-gold-web-reference) | React booking workspace, Node.js API, PostgreSQL persistence, concurrent reservation protection, project case study |
